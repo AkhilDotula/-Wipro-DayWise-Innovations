@@ -1,0 +1,18 @@
+/* Default light theme */
+.app {
+    text-align: center;
+    padding: 20px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  /* Light Mode Styles */
+  .app.light {
+    background-color: white;
+    color: black;
+  }
+  
+  /* Dark Mode Styles */
+  .app.dark {
+    background-color: black;
+    color: white;
+  }
