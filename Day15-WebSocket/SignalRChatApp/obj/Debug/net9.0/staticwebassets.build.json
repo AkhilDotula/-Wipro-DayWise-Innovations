@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cqzTVTbguoGNtYC6INYSosEivfXeA00j15eYwQJElMM=",
+  "Source": "SignalRChatApp",
+  "BasePath": "_content/SignalRChatApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
