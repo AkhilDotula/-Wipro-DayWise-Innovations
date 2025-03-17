@@ -1,0 +1,6 @@
+@MyWebAPI_using_axios_HostAddress = http://localhost:5118
+
+GET {{MyWebAPI_using_axios_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
